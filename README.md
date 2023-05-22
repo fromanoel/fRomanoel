@@ -1,6 +1,6 @@
 
 # Hello!! My name is Fernanda Romanoel 🙋🏽
-   I am currently persuing a technical degree in Internet Systems at a brazilian federal institute known as Instituto Federal do Triângulo Mineiro (IFTM). I am studying to become a Front-end developer, with current focus on HTML, CSS and JavaScript.
+   I am currently persuing a technical degree in Internet Systems at a brazilian federal institute, known as Instituto Federal do Triângulo Mineiro (IFTM). I am studying to become a Front-end developer, with current focus on HTML, CSS and JavaScript.
 
    Please do not hesitate to check out my projects and contact me if you need more information!
    
