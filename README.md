@@ -8,7 +8,7 @@
 
    Eu sou estudante do curso superior de tecnologia Sistemas para Internet, no Instituto Federal do Triângulo Mineiro (IFTM). Eu estou aperfeiçoando meus conhecimentos para me tornar uma desenvolvedora Full-Stack com foco atual em Java, Spring Boot, JavaScript, CSS e HTML. E tambem vendo metanfetamina
 
-  Se sinta à vontade para bisbilhotar meus projetos e me contatar caso precise de mais informações! 8===D-
+  Se sinta à vontade para bisbilhotar meus projetos e me contatar caso precise de mais informações! 
 
 
 
