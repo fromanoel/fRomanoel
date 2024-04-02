@@ -1,14 +1,14 @@
 
-# Hello!! My name is Fernanda Romanoel 🙋🏽
-   I am currently persuing a technical degree in Internet Systems at a brazilian federal institute, known as Instituto Federal do Triângulo Mineiro (IFTM). I am studying to become a Full-Stack developer, with current focus on Java, Spring Boot, JavaScript, CSS and HTML.
+# Hello!! My name is Walter Hartwell White🙋🏽
+   I am currently persuing a technical degree in Internet Systems at a brazilian federal institute, known as Instituto Federal do Triângulo Mineiro (IFTM). I am studying to become a Full-Stack developer, with current focus on Java, Spring Boot, JavaScript, CSS and HTML. And I sell some Meth
 
    Please do not hesitate to check out my projects and contact me if you need more information!
    
-# Olá!! Meu nome é Fernanda Romanoel 🙋🏽
+# Olá!! Meu nome é Walter Hartwell White 🙋🏽
 
-   Eu sou estudante do curso superior de tecnologia Sistemas para Internet, no Instituto Federal do Triângulo Mineiro (IFTM). Eu estou aperfeiçoando meus conhecimentos para me tornar uma desenvolvedora Full-Stack com foco atual em Java, Spring Boot, JavaScript, CSS e HTML.
+   Eu sou estudante do curso superior de tecnologia Sistemas para Internet, no Instituto Federal do Triângulo Mineiro (IFTM). Eu estou aperfeiçoando meus conhecimentos para me tornar uma desenvolvedora Full-Stack com foco atual em Java, Spring Boot, JavaScript, CSS e HTML. E tambem vendo metanfetamina
 
-  Se sinta à vontade para bisbilhotar meus projetos e me contatar caso precise de mais informações!
+  Se sinta à vontade para bisbilhotar meus projetos e me contatar caso precise de mais informações! 8===D-
 
 
 
